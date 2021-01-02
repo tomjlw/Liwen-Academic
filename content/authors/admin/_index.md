@@ -13,16 +13,18 @@ superuser: true
 role: Student at Rice University
 
 # Organizations/Affiliations
-organizations:
-- name: Student
-  url: ""
+organizations: Secure and Intelligent Micro-Systems (SIMS) Lab @ Department of Electrical and Computer Engineering, Rice University
+- name: Research Assistant
+  url: "https://vlsi.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: Liwen Jiang(S’16–M’20) received the B.S. degree in electrical engineering from Rice University, Houston, TX, USA, in 2016, where he is currently pursuing the Ph.D. degree. His current research interests include ultra-low power analog and mixed signal circuit design with focus on smart temperature, electrochemical and biomedical sensors.
 interests:
-- Integrated Circuit
-- Wireless Communication
+- Analog & Mixed Signal
+- Low Power Circuits
+- Temperature Sensor
+- Electrochemical Sensor
+- Biomedical Electronics
 
 education:
   - course: PhD in Electrical Engineering
@@ -62,7 +64,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lj13@rice.edu"
   
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
